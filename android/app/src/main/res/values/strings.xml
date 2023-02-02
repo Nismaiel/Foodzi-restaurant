@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodzi</string>
+    <string name="facebook_app_id">702831278222572</string>
+    <string name="fb_login_protocol_scheme">fb452131619626499</string>
+    <string name="facebook_client_token">d1ccd5cc6cd7e496077d7a31833b6b4a</string>
+</resources>

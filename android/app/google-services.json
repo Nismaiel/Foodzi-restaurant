@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "681563905855",
+    "project_id": "foodzi-342311",
+    "storage_bucket": "foodzi-342311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681563905855:android:74aceffae766c64305fd8a",
+        "android_client_info": {
+          "package_name": "com.foodzi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681563905855-mspguh2gikedbs4t5de6cj3fosguk6vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodzi.app",
+            "certificate_hash": "af9c578836ed00a2402e23437e60d879233927d4"
+          }
+        },
+        {
+          "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJXKpCgBO7FtfAp9nYDlhBxeA0qCaIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681563905855-a9hcij89ejge8rvlvclavtpqeg0meebr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.test.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681563905855:android:b69b8c73283ba65105fd8a",
+        "android_client_info": {
+          "package_name": "foodzi.app.neww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJXKpCgBO7FtfAp9nYDlhBxeA0qCaIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681563905855-a9hcij89ejge8rvlvclavtpqeg0meebr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.test.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681563905855:android:3506be24e703b79605fd8a",
+        "android_client_info": {
+          "package_name": "foodzi.delivery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJXKpCgBO7FtfAp9nYDlhBxeA0qCaIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681563905855-a9hcij89ejge8rvlvclavtpqeg0meebr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.test.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681563905855:android:9341350fa764bb6405fd8a",
+        "android_client_info": {
+          "package_name": "foodzi.restaurant.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJXKpCgBO7FtfAp9nYDlhBxeA0qCaIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681563905855-ngv02b6usrdka824o01r4ru4nqce0i8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681563905855-a9hcij89ejge8rvlvclavtpqeg0meebr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.test.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
